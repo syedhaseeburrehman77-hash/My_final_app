@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Tomato Plant",
+    "scientific_name": "lycopersicum",
+    "description": "A beautiful tomato plant commonly found in gardens.",
+    "care_level": "Moderate",
+    "location": "Sialkot",
+    "placement": "Open Roof",
+    "sun_preference": "Morning Sun",
+    "watering_interval_days": 4,
+    "last_watered": "2025-11-23T08:02:09.217218",
+    "image_path": "plant_images/Tomato Plant_20251122_131610.jpg",
+    "added_date": "2025-11-22T13:16:10.642246",
+    "notes": ""
+  },
+  {
+    "id": 2,
+    "name": "Rose",
+    "scientific_name": "Rosa",
+    "description": "beautiful red color plant with fragrance",
+    "care_level": "Moderate",
+    "location": "Sialkot",
+    "placement": "Balcony",
+    "sun_preference": "Morning Sun",
+    "watering_interval_days": 3,
+    "last_watered": "2025-11-23T08:10:35.276273",
+    "image_path": "",
+    "added_date": "2025-11-23T08:09:35.056150",
+    "notes": ""
+  }
+]
